@@ -1,4 +1,4 @@
-# SymmetricHashJoin
+# Symmetric Hash Join
 A hashing algorithm to replace the current hybrid hash join in PostgreSQL
 
 This is the final project for the course **Database II**, which is a implementation of a symmetric hash join. This is to replace the current hybrid hash join in [PostgreSQL 8.1.4](http://www.postgresql.org/ftp/source/v8.1.4/)
